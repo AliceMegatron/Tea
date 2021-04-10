@@ -1,6 +1,6 @@
 # Site settings
-title: Alice Megatron's Workshop
-description: 草堂春睡足,窗外日迟迟
+title: 草堂春睡足,窗外日迟迟
+description: Alice Megatron's Workshop
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://AliceMegatron.github.io"  
