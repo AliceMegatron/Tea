@@ -1,6 +1,6 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: Alice Megatron's Workshop
+description: 草堂春睡足,窗外日迟迟
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://AliceMegatron.github.io"  
